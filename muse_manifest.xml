@@ -1,0 +1,680 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gourmetseafoodandspiritsfestival.com" resolutions="1x,2x" timestamp="1525626881931">
+  <folder name="css">
+    <file name="site_global.css" crc="276664408"/>
+    <file name="master_pages-master.css" crc="69980856" ref="buy-tickets"/>
+    <file name="nomq_preview_master_pages-master.css" crc="4164741098" ref="buy-tickets"/>
+    <file name="master_pages-2018.css" crc="29032638" ref="aquacurean-challenge:anthony-burdo:vip:fresh-catch---cocktails-jazz-brunch:contact:volunteer:jean-vendeville:privacy-policy:coastal-chefs-table:terms---conditions:sponsors:the-lowcountry-picnic:overnight-packages"/>
+    <file name="nomq_preview_master_pages-2018.css" crc="3824530138" ref="aquacurean-challenge:anthony-burdo:vip:fresh-catch---cocktails-jazz-brunch:contact:volunteer:jean-vendeville:privacy-policy:coastal-chefs-table:terms---conditions:sponsors:the-lowcountry-picnic:overnight-packages"/>
+    <file name="master_home-master.css" crc="374957145" ref="index"/>
+    <file name="aquacurean-challenge.css" crc="4287048899" ref="aquacurean-challenge"/>
+    <file name="iefonts_aquacurean-challenge.css" crc="249348710" ref="aquacurean-challenge"/>
+    <file name="anthony-burdo.css" crc="4275865610" ref="anthony-burdo"/>
+    <file name="iefonts_anthony-burdo.css" crc="83115884" ref="anthony-burdo"/>
+    <file name="index.css" crc="39220289" ref="index"/>
+    <file name="vip.css" crc="411976891" ref="vip"/>
+    <file name="iefonts_vip.css" crc="241711420" ref="vip"/>
+    <file name="fresh-catch---cocktails-jazz-brunch.css" crc="4241201298" ref="fresh-catch---cocktails-jazz-brunch"/>
+    <file name="nomq_fresh-catch---cocktails-jazz-brunch.css" crc="3824530138" ref="fresh-catch---cocktails-jazz-brunch"/>
+    <file name="iefonts_fresh-catch---cocktails-jazz-brunch.css" crc="293900789" ref="fresh-catch---cocktails-jazz-brunch"/>
+    <file name="contact.css" crc="4190252331" ref="contact"/>
+    <file name="iefonts_contact.css" crc="49269934" ref="contact"/>
+    <file name="buy-tickets.css" crc="265601425" ref="buy-tickets"/>
+    <file name="nomq_buy-tickets.css" crc="3788837139" ref="buy-tickets"/>
+    <file name="volunteer.css" crc="363187467" ref="volunteer"/>
+    <file name="iefonts_volunteer.css" crc="4083112641" ref="volunteer"/>
+    <file name="jean-vendeville.css" crc="4187236209" ref="jean-vendeville"/>
+    <file name="iefonts_jean-vendeville.css" crc="28658577" ref="jean-vendeville"/>
+    <file name="privacy-policy.css" crc="129931515" ref="privacy-policy"/>
+    <file name="iefonts_privacy-policy.css" crc="3966015244" ref="privacy-policy"/>
+    <file name="coastal-chefs-table.css" crc="3993430267" ref="coastal-chefs-table"/>
+    <file name="iefonts_coastal-chefs-table.css" crc="206272500" ref="coastal-chefs-table"/>
+    <file name="terms---conditions.css" crc="92767332" ref="terms---conditions"/>
+    <file name="iefonts_terms---conditions.css" crc="301511801" ref="terms---conditions"/>
+    <file name="sponsors.css" crc="3950542761" ref="sponsors"/>
+    <file name="iefonts_sponsors.css" crc="397315995" ref="sponsors"/>
+    <file name="the-lowcountry-picnic.css" crc="4019320260" ref="the-lowcountry-picnic"/>
+    <file name="iefonts_the-lowcountry-picnic.css" crc="431331950" ref="the-lowcountry-picnic"/>
+    <file name="overnight-packages.css" crc="3786045954" ref="overnight-packages"/>
+    <file name="iefonts_overnight-packages.css" crc="144003005" ref="overnight-packages"/>
+  </folder>
+  <folder name="assets">
+    <file name="landing-page-video.webm" crc="4005117545" seo="true" mt="1523367599000"/>
+    <file name="landing-page-video.ogg" crc="4148512101" seo="true" mt="1523367828000"/>
+    <file name="landing-page-video.mp4" crc="4277587440" seo="true" mt="1523373860000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="museutils.js" crc="340535759" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="whatinput.js" crc="86476730" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="museconfig.js" crc="310584261" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="webpro.js" crc="4059564322" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="coastal-chefs-table:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:overnight-packages:jean-vendeville:anthony-burdo:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:overnight-packages:jean-vendeville:anthony-burdo:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:overnight-packages:jean-vendeville:anthony-burdo:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="require.js" crc="7928878" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="buy-tickets"/>
+  </folder>
+  <folder name="images">
+    <file name="pages-2018-favicon.ico" crc="134654986" ref="coastal-chefs-table"/>
+    <file name="logo blue red-crop-u105888.png" crc="3873190677" seo="true" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo">
+      <caption webpage="overnight-packages" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="jean-vendeville" alt=""/>
+      <caption webpage="anthony-burdo" alt=""/>
+      <caption webpage="aquacurean-challenge" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="vip" alt=""/>
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="logo blue red-crop-u105888_2x.png" crc="238955757" seo="true" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo">
+      <caption webpage="overnight-packages" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="jean-vendeville" alt=""/>
+      <caption webpage="anthony-burdo" alt=""/>
+      <caption webpage="aquacurean-challenge" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="vip" alt=""/>
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="close_musemenupro.png" crc="481936843" ref="coastal-chefs-table:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="close_musemenupro_2x.png" crc="481936843" ref="coastal-chefs-table:index">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="logo blue red.png" crc="3763887748" seo="true" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo">
+      <caption webpage="overnight-packages" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="jean-vendeville" alt=""/>
+      <caption webpage="anthony-burdo" alt=""/>
+      <caption webpage="aquacurean-challenge" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="vip" alt=""/>
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="logo blue red_2x.png" crc="3761638511" seo="true" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo">
+      <caption webpage="overnight-packages" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="jean-vendeville" alt=""/>
+      <caption webpage="anthony-burdo" alt=""/>
+      <caption webpage="aquacurean-challenge" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="vip" alt=""/>
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="savseafoodfacebook35x35.png" crc="75266760" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="savseafoodfacebook35x35_2x.png" crc="86536154" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="savseafoodinstagram35x35.png" crc="460128610" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="savseafoodinstagram35x35_2x.png" crc="3811823095" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="savseafoodtwitter35x35.png" crc="4257558790" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="savseafoodtwitter35x35_2x.png" crc="4096096480" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="sgssfthursday-3.jpg" crc="4098149859" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:buy-tickets:overnight-packages:jean-vendeville:anthony-burdo:index"/>
+    <file name="sgssfthursday-40.jpg" crc="447214051" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="sgssfthursday-41.jpg" crc="3943460032" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:overnight-packages:jean-vendeville:anthony-burdo:index"/>
+    <file name="buy tickets 2018.png" crc="75610612" seo="true" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo">
+      <caption webpage="overnight-packages" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="jean-vendeville" alt=""/>
+      <caption webpage="anthony-burdo" alt=""/>
+      <caption webpage="aquacurean-challenge" alt=""/>
+      <caption webpage="aquacurean-challenge" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="vip" alt=""/>
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="buy tickets 2018_2x.png" crc="4228089271" seo="true" ref="coastal-chefs-table:the-lowcountry-picnic:aquacurean-challenge:fresh-catch---cocktails-jazz-brunch:sponsors:privacy-policy:terms---conditions:overnight-packages:vip:contact:volunteer:jean-vendeville:anthony-burdo">
+      <caption webpage="overnight-packages" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="jean-vendeville" alt=""/>
+      <caption webpage="anthony-burdo" alt=""/>
+      <caption webpage="aquacurean-challenge" alt=""/>
+      <caption webpage="aquacurean-challenge" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="vip" alt=""/>
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="burdo headshot.jpg" crc="4197716085" seo="true" ref="coastal-chefs-table:the-lowcountry-picnic">
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+    </file>
+    <file name="burdo headshot_2x.jpg" crc="4201159698" seo="true" ref="coastal-chefs-table:the-lowcountry-picnic">
+      <caption webpage="coastal-chefs-table" alt=""/>
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+    </file>
+    <file name="vendeville2017.jpg" crc="4223862101" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="vendeville2017_2x.jpg" crc="3943584103" seo="true" ref="coastal-chefs-table">
+      <caption webpage="coastal-chefs-table" alt=""/>
+    </file>
+    <file name="sgssffriday-5.jpg" crc="4261750322" seo="true" ref="the-lowcountry-picnic">
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+    </file>
+    <file name="sgssffriday-1.jpg" crc="4101231621" seo="true" ref="the-lowcountry-picnic">
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+    </file>
+    <file name="rustybowers.jpg" crc="4265660085" seo="true" ref="the-lowcountry-picnic">
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+    </file>
+    <file name="rustybowers_2x.jpg" crc="4159284697" seo="true" ref="the-lowcountry-picnic">
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+    </file>
+    <file name="20 ride.jpg" crc="530960793" seo="true" ref="the-lowcountry-picnic">
+      <caption webpage="the-lowcountry-picnic" alt=""/>
+    </file>
+    <file name="aquachallengeeatingfood.jpg" crc="429156888" seo="true" ref="aquacurean-challenge">
+      <caption webpage="aquacurean-challenge" alt=""/>
+    </file>
+    <file name="aquastarlogo.png" crc="110946961" seo="true" ref="aquacurean-challenge">
+      <caption webpage="aquacurean-challenge" alt=""/>
+    </file>
+    <file name="aquastarlogo_2x.png" crc="51897054" seo="true" ref="aquacurean-challenge">
+      <caption webpage="aquacurean-challenge" alt=""/>
+    </file>
+    <file name="2015-08-30 122557.jpg" crc="4180672799" seo="true" ref="fresh-catch---cocktails-jazz-brunch">
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+    </file>
+    <file name="2015-08-30 125107.jpg" crc="4234642046" seo="true" ref="fresh-catch---cocktails-jazz-brunch">
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+    </file>
+    <file name="jeremy davis2.jpg" crc="247869983" seo="true" ref="fresh-catch---cocktails-jazz-brunch">
+      <caption webpage="fresh-catch---cocktails-jazz-brunch" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="3779819001" ref="buy-tickets"/>
+    <file name="2017sgssflogo.png" crc="533820503" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo_2x.png" crc="117487643" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite.png" crc="4291400370" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite_2x.png" crc="3956805571" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite.png" crc="314691223" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite_2x.png" crc="3829221890" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite.png" crc="11216133" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite_2x.png" crc="4210692907" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite.png" crc="4263029437" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite_2x.png" crc="3889842237" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="buyticketsaquacureanfish2017footer.png" crc="3883350429" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="buyticketsaquacureanfish2017footer_2x.png" crc="208889571" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo262x104.png" crc="4096597017" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo262x104_2x.png" crc="11834162" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite39x39.png" crc="4057190116" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite39x39_2x.png" crc="315517059" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite39x39.png" crc="456101716" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite39x39_2x.png" crc="341788249" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite40x40.png" crc="3774234927" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite40x40_2x.png" crc="3783770046" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite39x39.png" crc="427340122" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite39x39_2x.png" crc="198110534" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo201x79.png" crc="4262973644" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo201x79_2x.png" crc="123963218" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite38x38.png" crc="4057190116" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite38x38_2x.png" crc="315517059" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite38x38.png" crc="456101716" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite38x38_2x.png" crc="341788249" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite41x41.png" crc="4007317926" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite41x41_2x.png" crc="3961229335" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite38x38.png" crc="427340122" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite38x38_2x.png" crc="198110534" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo175x69.png" crc="3806995536" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo175x69_2x.png" crc="109178174" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite40x40.png" crc="346008349" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite40x40_2x.png" crc="186804831" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite40x40.png" crc="505049505" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite40x40_2x.png" crc="3813715103" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite42x42.png" crc="374076347" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite42x42_2x.png" crc="4275798404" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite40x40.png" crc="1885079" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite40x40_2x.png" crc="257039013" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="buyticketsaquacureanfish2017footer35x51.png" crc="4172690193" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="buyticketsaquacureanfish2017footer35x51_2x.png" crc="218193101" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo198x79.png" crc="285826049" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo198x79_2x.png" crc="4056930248" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite30x30.png" crc="33114350" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017facebookwhite30x30_2x.png" crc="414220810" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite30x30.png" crc="4041980688" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017pinterestwhite30x30_2x.png" crc="3938231997" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite32x32.png" crc="3892778374" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017instagramwhite32x32_2x.png" crc="110460822" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite30x30.png" crc="482985169" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017twitterwhite30x30_2x.png" crc="3878980644" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="buyticketsaquacureanfish2017footer32x47.png" crc="4067644857" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="buyticketsaquacureanfish2017footer32x47_2x.png" crc="3955664511" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo135x54.png" crc="73619148" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="2017sgssflogo135x54_2x.png" crc="425241832" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="buyticketsaquacureanfish2017footer33x48.png" crc="4140684631" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="buyticketsaquacureanfish2017footer33x48_2x.png" crc="3913728124" seo="true" ref="buy-tickets">
+      <caption webpage="buy-tickets" alt=""/>
+    </file>
+    <file name="wsh-logo-black.jpg" crc="112823590" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="wsh-logo-black_2x.jpg" crc="334668765" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="logo.jpg" crc="235756199" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="logo_2x.jpg" crc="3916071441" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="eventhaus-logo-2_hi-res-e1438997951655.jpg" crc="4095703207" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="eventhaus-logo-2_hi-res-e1438997951655_2x.jpg" crc="349148219" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="bluepointnew.jpg" crc="158743878" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="bluepointnew_2x.jpg" crc="152014733" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="fiji_logo.png" crc="297530096" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="seaglass logo.jpg" crc="4219630121" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="seaglass logo_2x.jpg" crc="10476539" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="dafuskie island rum.png" crc="3983163737" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="dafuskie island rum_2x.png" crc="3779654851" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="adfish2016_logohorizontal.png" crc="8245733" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="adfish2016_logohorizontal_2x.png" crc="3870516061" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="us-foods-sm-logo-tagline.jpg" crc="4055705689" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="us-foods-sm-logo-tagline_2x.jpg" crc="3845384214" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="coca_cola_logo.jpg" crc="532294542" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="coca_cola_logo_2x.jpg" crc="525687551" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="07-06-15-libbey-made-in-usa-logo.png" crc="4201168890" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="07-06-15-libbey-made-in-usa-logo_2x.png" crc="425242931" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="certified-angus-beef-logo_burger_conquest_what_is.png" crc="3844504825" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="certified-angus-beef-logo_burger_conquest_what_is_2x.png" crc="265731397" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="eat-it_vector.png" crc="3937342006" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="eat-it_vector_2x.png" crc="435399214" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="savannahmorningnews90high.jpg" crc="304232363" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="iheartmedia-02.png" crc="4123183322" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="iheartmedia-02_2x.png" crc="3964140378" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="caskandcrew.png" crc="483044675" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="old-foester_logo.jpg" crc="3922874450" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="old-foester_logo_2x.jpg" crc="381865384" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="plymouthgin.jpg" crc="413663394" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="plymouthgin_2x.jpg" crc="414391315" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="absolut_new_aug2017.jpg" crc="293616741" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="absolut_new_aug2017_2x.jpg" crc="3858332246" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="herradura logo 1.jpg" crc="4028865304" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="herradura logo 1_2x.jpg" crc="4173362241" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="stayinsavannahcom logo.png" crc="271093736" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="stayinsavannahcom logo_2x.png" crc="4091874194" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="gp-logo.jpg" crc="301239621" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="hc_logo_color.jpg" crc="3914420084" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="csx_transp_logosvg.png" crc="3785969664" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="csx_transp_logosvg_2x.png" crc="4226693227" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="shh_airport_cmyk.png" crc="4125202467" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="savannah-international-trade-convention-center-72.jpg" crc="3939195102" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="savannah-international-trade-convention-center-72_2x.jpg" crc="4199955344" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="westin new lighting.jpg" crc="414675086" seo="true" ref="overnight-packages">
+      <caption webpage="overnight-packages" alt=""/>
+    </file>
+    <file name="stc_fp_vendeville_07072015-11-crop-u48603.jpg" crc="406678282" seo="true" ref="jean-vendeville">
+      <caption webpage="jean-vendeville" alt=""/>
+    </file>
+    <file name="stc_fp_vendeville_07072015-11-crop-u48603_2x.jpg" crc="55373348" seo="true" ref="jean-vendeville">
+      <caption webpage="jean-vendeville" alt=""/>
+    </file>
+    <file name="savtechstackedhorizontallogo.jpg" crc="3893685877" seo="true" ref="jean-vendeville">
+      <caption webpage="jean-vendeville" alt=""/>
+    </file>
+    <file name="savtechstackedhorizontallogo_2x.jpg" crc="4135919613" seo="true" ref="jean-vendeville">
+      <caption webpage="jean-vendeville" alt=""/>
+    </file>
+    <file name="burdo.jpg" crc="3807486751" seo="true" ref="anthony-burdo">
+      <caption webpage="anthony-burdo" alt=""/>
+    </file>
+    <file name="burdo_2x.jpg" crc="4069720302" seo="true" ref="anthony-burdo">
+      <caption webpage="anthony-burdo" alt=""/>
+    </file>
+    <file name="wsh-logo-black156x58.jpg" crc="4143159319" seo="true" ref="anthony-burdo">
+      <caption webpage="anthony-burdo" alt=""/>
+    </file>
+    <file name="wsh-logo-black156x58_2x.jpg" crc="3783783321" seo="true" ref="anthony-burdo">
+      <caption webpage="anthony-burdo" alt=""/>
+    </file>
+    <file name="home-master-favicon.ico" crc="134654986" ref="index"/>
+    <file name="logo blue red-crop-u105900.png" crc="3769802292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo blue red-crop-u105900_2x.png" crc="3832873110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="base_poster_8_b.png" crc="67448796" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seafoodlogo white-red.png" crc="3875286662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seafoodlogo white-red_2x.png" crc="390881205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gourmandexperience red.png" crc="135736480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="savseafoodfacebook.png" crc="4028199845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="savseafoodfacebook_2x.png" crc="3822328288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="savseafoodinstagram.png" crc="77799144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="savseafoodinstagram_2x.png" crc="422210798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="savseafoodtwitter.png" crc="9490583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="savseafoodtwitter_2x.png" crc="4072639899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sgssfthursday-27.jpg" crc="4213527530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="article_plus.png" crc="4162630431" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="article_plus_2x.png" crc="4109086433" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="westinfood-01.jpg" crc="16840640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10 crop.jpg" crc="3939003902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aquacurean 2016-0056.jpg" crc="4287162842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="coastal-chefs-table.html" crc="3836267128" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="the-lowcountry-picnic.html" crc="4283943311" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="aquacurean-challenge.html" crc="4141120670" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="fresh-catch---cocktails-jazz-brunch.html" crc="207476705" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="buy-tickets.html" crc="510366654" seo="true" mt="1523909975390" redirect="true"/>
+  <file name="sponsors.html" crc="45614771" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="privacy-policy.html" crc="3844614173" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="terms---conditions.html" crc="439298710" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="overnight-packages.html" crc="3948909472" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="vip.html" crc="384694877" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="contact.html" crc="109838044" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="volunteer.html" crc="4106770620" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="jean-vendeville.html" crc="4147754583" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="anthony-burdo.html" crc="4275877359" seo="true" mt="1525432952926" redirect="true"/>
+  <file name="index.html" crc="3952271345" seo="true" mt="1525432909317" redirect="true"/>
+</manifest>
